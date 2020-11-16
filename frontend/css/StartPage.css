@@ -1,0 +1,77 @@
+.body {
+    position: fixed;
+    width: 100vw;
+    height: 100vh;
+}   
+
+.test__selection {
+    margin: 0px;
+    font-family: 'Sora', sans-serif;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.text {
+    color: #C4DFE6;
+}
+
+.bg__color {
+    background-color: #323232;
+}
+
+.bg-my {
+    background-color: #3B4964;
+}
+
+.my-btn {
+    display: block;
+    width: 70%;
+    margin: 20px;
+}
+
+.height {
+    height: 100vh;
+}
+
+.my-margin {
+    margin-top: 70px;
+    margin-bottom: 100px;
+}
+
+.my-image {
+    height: 60px;
+    width: 64px;
+}
+
+.people__selection {
+    font-family: 'Righteous', cursive;
+    font-size: 36px;
+    font-weight: 400;
+    color: #000000;  
+}
+
+.heading {
+    margin-top: 70px;
+    margin-left: 100px;
+}
+
+.people__text {
+    font-size: 24px;
+    margin-left: 100px;
+    margin-right: 200px;
+}
+
+.people__margin {
+    margin-right: 10px;
+}
+
+.download-all {
+    background-color: #CFE0FF;
+    color: #003B46;
+    padding-right: 18px;
+    padding-left: 18px;
+    padding-bottom: 10px;
+    padding-top: 8px;
+    margin-left: 75%;
+    font-family: 'Righteous', cursive;
+}
